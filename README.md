@@ -11,7 +11,7 @@ Bit App is a fully responsive HTML template. It looks at all devices because of 
 ### Status
 
 <p>
-<a href="https://github.com/devdap/Bit-App-Theme/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/github/license/devdap/Bit App Landing.svg?style=plastic" alt="GitHub license" style="max-width:100%;"></a>
+<a href="https://github.com/devdap/Bit-App-Theme/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/github/license/devdap/Bit-App-Theme.svg?style=plastic" alt="GitHub license" style="max-width:100%;"></a>
 </p>
 
 
